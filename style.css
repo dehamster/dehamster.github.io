@@ -1,0 +1,16 @@
+body {
+  font-style: initial
+}
+
+h1 {
+  background-color: darkkhaki;
+}
+
+.dark {
+  color: rgb(42, 29, 82);
+  text-align: left;
+}
+
+.list {
+  color: rgb(119, 119, 177)
+}
